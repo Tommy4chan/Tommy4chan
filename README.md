@@ -39,4 +39,10 @@
   <a href="https://www.linkedin.com/in/anton-panurin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://t.me/tommy4chan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="http://anton-panurin.pp.ua/" target="_blank">
+    <img src="http://anton-panurin.pp.ua/img/logo_white.png" height="35" alt="telegram logo"  />
+  </a>
 </div>
